@@ -8,7 +8,7 @@
 </div>
 <div>
     <a href="https://www.linkedin.com/in/daniel-cana-3b313a43/" target="_blank">
-        <img src="https://www.artizanatweb.ro/github/linkedin.png" target="_blank" alt="Linkedin profile">
+        <img src="https://www.artizanatweb.ro/github/linkedin16px.png" target="_blank" alt="Linkedin profile">
     </a>
     <a href="https://www.linkedin.com/in/daniel-cana-3b313a43/" target="_blank" alt="Linkedin profile">Linked<b>in</b> profile</a>
 </div>
