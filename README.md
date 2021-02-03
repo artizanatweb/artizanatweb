@@ -12,3 +12,4 @@
     </a>
     <a href="https://www.linkedin.com/in/daniel-cana-3b313a43/" target="_blank" rel="noopener noreferrer" alt="Linkedin profile">Linked<b>in</b> profile</a>
 </div>
+[link text](https://www.artizanatweb.ro/github/linkedin16px.png){:target="_blank"}
