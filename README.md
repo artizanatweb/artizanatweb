@@ -1,8 +1,7 @@
 # Hello,
 <div>
     <p>
-        I'm a Full Stack web developer with more than 13 years of experience, linux enthusiast and IoT hobbyist.<br />
-        I'm specialized in applications development with <b>Laravel</b> and <b>ReactJS</b>.<br />
+        :wave: I am a Full Stack Developer with more than 13 years of experience and I am eager to develop tools that help your business grow, reduce workload, improves sales and deliver a fantastic customer experience.    
     </p>
     <img align="right" src="https://www.artizanatweb.ro/assets/github/laravel_and_react_dev.png" alt="Laravel and ReactJS web developer" />
 </div>
