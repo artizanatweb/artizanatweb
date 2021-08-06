@@ -1,9 +1,12 @@
 # Hello,
 <div>
     <p>
-        :wave: I am a Full Stack Developer with more than 13 years of experience and I am eager to develop tools that help your business grow, reduce workload, improves sales and deliver a fantastic customer experience.    
+        :wave: I am a Full Stack Developer who specializes in helping clients rapidly solve coding or technical issues.<br />
+        :heavy_check_mark: Need someone to develop a highly secure backend and a frontend that provides the best mobile and desktop user experience? I can do that.<br />
+        :heavy_check_mark: Need someone to fix, improve or add new features to your app's backend? I can do that.<br />
+        :heavy_check_mark: Need someone to implement a new design, to add new pages or features to your front-end? I can do that.<br />
+        :wrench: I can fix any issue that is preventing you from reaching success​ in your apps.
     </p>
-    <p>:heavy_check_mark: I work as a <b>consultant / contractor / freelancer</b> and help businesses develop, grow, and maintain their products and services.</p>
     <p>:computer: My programming languages of choice are PHP (Laravel framework) and JavaScript (mainly React.js) but I have also developed software for embedded systems in C++, desktop applications with Electron.js and games using Phaser framework.</p>
     <p>:zap: I am constantly looking for new challenges and self-improvement.</p>
     <p>	:envelope_with_arrow: If you are interested in a collaboration, do not hesitate to <a href="mailto:artizanatweb@gmail.com" target="_blank">drop me a message</a>!</p>
