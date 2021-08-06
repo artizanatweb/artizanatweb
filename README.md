@@ -1,7 +1,9 @@
 # Hello,
 <div>
     <p>
-        :wave: I am a Full Stack Developer who specializes in helping clients rapidly solve coding or technical issues.<br />
+        :wave: I am a Full Stack Developer who specializes in helping clients rapidly solve coding or technical issues.
+    </p>
+    <p>
         :heavy_check_mark: Need someone to develop a highly secure backend and a frontend that provides the best mobile and desktop user experience? I can do that.<br />
         :heavy_check_mark: Need someone to fix, improve or add new features to your app's backend? I can do that.<br />
         :heavy_check_mark: Need someone to implement a new design, to add new pages or features to your front-end? I can do that.<br />
