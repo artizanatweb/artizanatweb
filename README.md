@@ -15,8 +15,8 @@
     <img align="right" src="https://www.artizanatweb.ro/assets/github/laravel_and_react_dev.png" alt="Laravel and ReactJS web developer" />
 </div>
 <div>
-    <a href="https://www.linkedin.com/in/artizanatweb/" target="_blank">
+    <a href="https://www.linkedin.com/in/danielcanadev/" target="_blank">
         <img src="https://www.artizanatweb.ro/assets/github/linkedin16px.png" alt="Linkedin profile">
     </a>
-    <a href="https://www.linkedin.com/in/artizanatweb/" target="_blank" alt="Linkedin profile">Linked<b>in</b> profile</a>
+    <a href="https://www.linkedin.com/in/danielcanadev/" target="_blank" alt="Linkedin profile">Linked<b>in</b> profile</a>
 </div>
