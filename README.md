@@ -16,7 +16,7 @@
 </div>
 <div>
     <a href="https://www.linkedin.com/in/danielcanadev/" target="_blank">
-        <img src="https://www.artizanatweb.ro/assets/github/linkedin16px.png" alt="Linkedin profile">
+        <img src="linkedin16px.png" alt="Linkedin profile">
     </a>
     <a href="https://www.linkedin.com/in/danielcanadev/" target="_blank" alt="Linkedin profile">Linked<b>in</b> profile</a>
 </div>
