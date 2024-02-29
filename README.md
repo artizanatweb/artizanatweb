@@ -12,7 +12,7 @@
     <p>:computer: My programming languages of choice are PHP (Laravel framework) and JavaScript (mainly React.js) but I have also developed software for embedded systems in C++, desktop applications with Electron.js and games using Phaser framework.</p>
     <p>:zap: I am constantly looking for new challenges and self-improvement.</p>
     <p>	:envelope_with_arrow: If you are interested in a collaboration, do not hesitate to <a href="mailto:artizanatweb@gmail.com" target="_blank">drop me a message</a>!</p>
-    <img align="right" src="https://www.artizanatweb.ro/assets/github/laravel_and_react_dev.png" alt="Laravel and ReactJS web developer" />
+    <img align="right" src="laravel_and_react.png" alt="Laravel and ReactJS web developer" />
 </div>
 <div>
     <a href="https://www.linkedin.com/in/danielcanadev/" target="_blank">
